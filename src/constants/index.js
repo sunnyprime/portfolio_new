@@ -3,6 +3,8 @@ import {
   backend,
   creator,
   web,
+  vintage,
+  kisankart,
   javascript,
   typescript,
   html,
@@ -23,6 +25,9 @@ import {
   jobit,
   tripguide,
   threejs,
+  AIecom,
+  bnb
+  
 } from '../assets';
 
 export const navLinks = [
@@ -131,7 +136,7 @@ const experiences = [
   {
     title: 'Nextjs Developer',
     company_name: 'Brick & Bolt',
-    icon: tesla,
+    icon: bnb,
     iconBg: '#E6DEDD',
     date: 'February 2020 - April 2020',
     points: [
@@ -161,26 +166,26 @@ const testimonials = [
   {
     testimonial:
       'I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.',
-    name: 'Sara Lee',
-    designation: 'CFO',
-    company: 'Acme Co',
-    image: 'https://randomuser.me/api/portraits/women/4.jpg',
+    name: 'Wayne Zawer',
+    designation: 'Digital CPO',
+    company: 'P/L Optimization',
+    image: 'https://media.licdn.com/dms/image/C5103AQGLGrpHWk0NSg/profile-displayphoto-shrink_800_800/0/1581549984015?e=1700697600&v=beta&t=vJ69HW2aLLxZser9xrRv-LgVvqlbwXCeIDgwWJ_NMzE',
   },
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: 'Chris Brown',
-    designation: 'COO',
-    company: 'DEF Corp',
-    image: 'https://randomuser.me/api/portraits/men/5.jpg',
+    name: 'Brayden Knowel',
+    designation: 'Buisness Analyst',
+    company: 'HUB24 LTD',
+    image: 'https://media.licdn.com/dms/image/D5603AQGHoz3bdV-bLQ/profile-displayphoto-shrink_400_400/0/1632638956076?e=1700697600&v=beta&t=n2Ec5xEkejKCOUdikjg5lx8w-fOOCuQC3A-71rMgpRg',
   },
   {
     testimonial:
       "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: 'Lisa Wang',
-    designation: 'CTO',
-    company: '456 Enterprises',
-    image: 'https://randomuser.me/api/portraits/women/6.jpg',
+    name: 'Lissette Villaflores',
+    designation: 'Senior Business Analyst',
+    company: 'Westpac',
+    image: 'https://media.licdn.com/dms/image/C5603AQFFNECnNuKNwQ/profile-displayphoto-shrink_400_400/0/1628736126262?e=1700697600&v=beta&t=McKPoAIjvrWxaTyDFp7dsocUAoyVF7tJjAr0EmyS02k',
   },
 ];
 
@@ -203,11 +208,11 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: carrent,
-    source_code_link: 'https://github.com/',
+    image: kisankart,
+    source_code_link: 'https://cranky-poitras-25ca35.netlify.app/',
   },
   {
-    name: 'Job IT',
+    name: 'Cloths selling Ecommerce',
     description:
       'Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.',
     tags: [
@@ -220,12 +225,12 @@ const projects = [
         color: 'green-text-gradient',
       },
       {
-        name: 'scss',
+        name: 'styled',
         color: 'pink-text-gradient',
       },
     ],
-    image: jobit,
-    source_code_link: 'https://github.com/',
+    image: AIecom,
+    source_code_link: 'https://rad-empanada-7ba46c.netlify.app/',
   },
   {
     name: 'Trip Guide',
@@ -245,8 +250,8 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: tripguide,
-    source_code_link: 'https://github.com/',
+    image: vintage,
+    source_code_link: 'https://relaxed-mcnulty-3c04c2.netlify.app/',
   },
 ];
 

@@ -27,11 +27,18 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
+import AIecom from "./AIecom.jpg";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import kisankart from "./kisankart.jpg";
+import vintage from "./vintage.jpg"
+import bnb from "./company/bnb.svg";
 
 export {
   logo,
+  bnb,
+  vintage,
+  kisankart,
   backend,
   creator,
   mobile,
@@ -59,4 +66,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  AIecom
 };
