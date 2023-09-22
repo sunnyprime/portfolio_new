@@ -26,7 +26,8 @@ import {
   tripguide,
   threejs,
   AIecom,
-  bnb
+  bnb,
+  infy
   
 } from '../assets';
 
@@ -55,7 +56,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: 'Blockchain Developer',
+    title: 'Blockchain Explorer',
     icon: backend,
   },
   {
@@ -113,19 +114,19 @@ const technologies = [
     name: 'figma',
     icon: figma,
   },
-  {
-    name: 'docker',
-    icon: docker,
-  },
+  // {
+  //   name: 'docker',
+  //   icon: docker,
+  // },
 ];
 
 const experiences = [
   {
-    title: 'Web Developer',
-    company_name: 'IT Bussiness Solution',
-    icon: starbucks,
+    title: 'Technical Analyst',
+    company_name: 'Infosys',
+    icon: infy,
     iconBg: '#383E56',
-    date: 'April 2018 - February 2020',
+    date: 'December 2020 - Present',
     points: [
       'Developing and maintaining web applications using React.js and other related technologies.',
       'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
@@ -147,11 +148,11 @@ const experiences = [
     ],
   },
   {
-    title: 'Technical Analyst',
-    company_name: 'Infosys',
-    icon: shopify,
+    title: 'Web Developer',
+    company_name: 'IT Bussiness Solution',
+    icon: starbucks,
     iconBg: '#383E56',
-    date: 'December 2020 - Present',
+    date: 'April 2018 - February 2020',
     points: [
       'Developing and maintaining web applications using React.js and other related technologies.',
       'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
@@ -159,6 +160,8 @@ const experiences = [
       'Participating in code reviews and providing constructive feedback to other developers.',
     ],
   },
+ 
+  
 
 ];
 
@@ -191,9 +194,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: 'Car Rent',
+    name: 'Kishan Kart',
     description:
-      'Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.',
+      'Kishan E-commerce: Your high-performance, secure shopping destination, setting new standards in online retail excellence.',
     tags: [
       {
         name: 'react',
@@ -204,7 +207,7 @@ const projects = [
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'antd',
         color: 'pink-text-gradient',
       },
     ],
@@ -214,7 +217,7 @@ const projects = [
   {
     name: 'Cloths selling Ecommerce',
     description:
-      'Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.',
+      'Discover the future of fashion with our Clothing E-commerce platform. Seamlessly designed for performance, security, and style, it offers an unparalleled shopping experience with real-time inventory, secure transactions, and cutting-edge fashion trends.',
     tags: [
       {
         name: 'react',
@@ -233,20 +236,20 @@ const projects = [
     source_code_link: 'https://rad-empanada-7ba46c.netlify.app/',
   },
   {
-    name: 'Trip Guide',
+    name: 'Vintage ecommerce',
     description:
-      'A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.',
+      'Step into the past with our Vintage E-commerce platform. Merging nostalgia and technology, it delivers a secure shopping experience with curated, one-of-a-kind finds, seamless transactions, and a timeless touch.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'reactjs',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'css',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'javascript',
         color: 'pink-text-gradient',
       },
     ],

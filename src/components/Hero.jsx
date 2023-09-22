@@ -18,8 +18,8 @@ const Hero = () => {
             HI, I'm <span className="text-[#919eff]">Vivek</span>{' '}
           </h1>
           <p>
-            I develop 3D visuals, user <br className="sm:block hidden" />{' '}
-            interfaces and web applications
+          I am a skilled frontend developer with a focus  <br className="sm:block hidden" />{' '}
+          on creating exceptional user experiences and  <br className="sm:block hidden" />{' '}user interfaces for web and application development.
           </p>
         </div>
       </div>

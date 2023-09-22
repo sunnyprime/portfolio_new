@@ -38,10 +38,10 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa ad aut
-        nobis veniam dolorum aliquid mollitia nesciunt voluptatem atque earum
-        cumque tempore veritatis exercitationem facilis in consectetur neque,
-        iure natus!
+        I am a highly motivated and experienced frontend developer with a passion for crafting beautiful and 
+        intuitive user interfaces. My expertise lies in creating responsive and performance-driven web applications 
+        that elevate user experiences. With a strong command of modern web technologies, I bring creative solutions to 
+        the forefront of every project.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services?.map((service, index) => (
