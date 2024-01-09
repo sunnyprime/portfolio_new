@@ -168,7 +168,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      'I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.',
+      'I thought it was impossible to make a website as beautiful as our product, but Vivek proved me wrong.',
     name: 'Wayne Zawer',
     designation: 'Digital CPO',
     company: 'P/L Optimization',
@@ -176,7 +176,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Vivek does.",
     name: 'Brayden Knowel',
     designation: 'Buisness Analyst',
     company: 'HUB24 LTD',
@@ -184,7 +184,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Vivek optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: 'Lissette Villaflores',
     designation: 'Senior Business Analyst',
     company: 'Westpac',
