@@ -172,15 +172,15 @@ const testimonials = [
     name: 'Wayne Zawer',
     designation: 'Digital CPO',
     company: 'P/L Optimization',
-    image: 'https://media.licdn.com/dms/image/C5103AQGLGrpHWk0NSg/profile-displayphoto-shrink_800_800/0/1581549984015?e=1700697600&v=beta&t=vJ69HW2aLLxZser9xrRv-LgVvqlbwXCeIDgwWJ_NMzE',
+    image: 'https://media.licdn.com/dms/image/C5103AQGLGrpHWk0NSg/profile-displayphoto-shrink_100_100/0/1581549983937?e=1710374400&v=beta&t=9VXj79DzDOhKyRpO1ATYBNJZKfXGm1NzCaC2NuiXzOA',
   },
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Vivek does.",
-    name: 'Brayden Knowel',
+    name: 'Brayden Knowles',
     designation: 'Buisness Analyst',
     company: 'HUB24 LTD',
-    image: 'https://media.licdn.com/dms/image/D5603AQGHoz3bdV-bLQ/profile-displayphoto-shrink_400_400/0/1632638956076?e=1700697600&v=beta&t=n2Ec5xEkejKCOUdikjg5lx8w-fOOCuQC3A-71rMgpRg',
+    image: 'https://media.licdn.com/dms/image/D5603AQGHoz3bdV-bLQ/profile-displayphoto-shrink_400_400/0/1632638956076?e=1710374400&v=beta&t=AJG7Sm_VMEWSdED0Nf9vg6ESGTdzcfnSbnodD3561-o',
   },
   {
     testimonial:
@@ -188,7 +188,7 @@ const testimonials = [
     name: 'Lissette Villaflores',
     designation: 'Senior Business Analyst',
     company: 'Westpac',
-    image: 'https://media.licdn.com/dms/image/C5603AQFFNECnNuKNwQ/profile-displayphoto-shrink_400_400/0/1628736126262?e=1700697600&v=beta&t=McKPoAIjvrWxaTyDFp7dsocUAoyVF7tJjAr0EmyS02k',
+    image: 'https://media.licdn.com/dms/image/C5603AQFFNECnNuKNwQ/profile-displayphoto-shrink_400_400/0/1628736126262?e=1710374400&v=beta&t=HN3aqfbzw1SF46Nc_F-Abwcni03JPRCIhReQ1DGsXZM',
   },
 ];
 
